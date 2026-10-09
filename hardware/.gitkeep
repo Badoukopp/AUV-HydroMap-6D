@@ -1,0 +1,15 @@
+# Sauvegardes et verrous KiCad
+*-backups/
+*.kicad_prl
+*.lck
+*.tmp
+*.bck
+
+# Fichiers de simulation et de rendu temporaires
+*_autosave*
+*.net
+*.xml
+
+# (Optionnel) Dossiers d'export Gerber / Plot générés localement
+# /gerber/
+# /plots/
